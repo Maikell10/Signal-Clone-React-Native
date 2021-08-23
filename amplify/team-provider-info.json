@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-signalclonevadim-staging-34043-authRole",
+      "UnauthRoleArn": "arn:aws:iam::279326368373:role/amplify-signalclonevadim-staging-34043-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::279326368373:role/amplify-signalclonevadim-staging-34043-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-signalclonevadim-staging-34043-deployment",
+      "UnauthRoleName": "amplify-signalclonevadim-staging-34043-unauthRole",
+      "StackName": "amplify-signalclonevadim-staging-34043",
+      "StackId": "arn:aws:cloudformation:us-east-1:279326368373:stack/amplify-signalclonevadim-staging-34043/badf5200-02fa-11ec-ad19-0a1d5fc00e6b",
+      "AmplifyAppId": "d2rtsc4ij8hhns"
+    },
+    "categories": {
+      "auth": {
+        "SignalCloneVadim": {}
+      }
+    }
+  }
+}
